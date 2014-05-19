@@ -1,0 +1,9 @@
+Building AimCoin
+
+See doc/readme-qt.rst for instructions on building AimCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AimCoin.
+
+See doc/build-*.txt for instructions on building AimCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AimCoin.
